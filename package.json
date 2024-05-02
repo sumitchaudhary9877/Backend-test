@@ -1,0 +1,16 @@
+{
+  "name": "backend-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "mysql2": "^3.9.7"
+  }
+}

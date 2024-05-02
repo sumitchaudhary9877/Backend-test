@@ -1,0 +1,7 @@
+# Fastify API with MySQL Database
+
+## Setup
+1. Clone this repository.
+2. Install dependencies:
+
+   npm install
